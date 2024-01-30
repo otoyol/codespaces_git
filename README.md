@@ -26,7 +26,7 @@ GitHub account created.
 
 The link below provides a quickstart to spin up an environment using this template as a base project.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/juancarlosjr97/codespaces-git-playground?quickstart=1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/otoyol/codespaces-git?quickstart=1)
 
 ## Creating a repository from a template
 
